@@ -1,0 +1,2 @@
+toActivate python ---  source .venv/Scripts/activate
+toDeactivate python --- deactivate
